@@ -1,1 +1,1 @@
-- 5 月 31 日（池田）[スライド](gittest/220531IkedaSlide.pdf)
+- 5 月 31 日（池田）[スライド](gittest/hello.txt)
