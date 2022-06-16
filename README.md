@@ -1,1 +1,1 @@
-- 5 月 31 日（池田）[スライド](gittest/hello.txt)
+- [スライド](gittest/hello.txt)
